@@ -4,7 +4,7 @@
 #include<iostream>
 using namespace std;
 int main()
-{
+{ 
   double Basic_pay,Net_salary,Hra,Ta,Da,Hra_percent,Ta_percent,Da_percent;
   string name;
   cout<<"Enter the name of the employ :";
