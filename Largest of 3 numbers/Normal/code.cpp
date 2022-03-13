@@ -15,7 +15,7 @@ int main()
     {
         cout<<b<<" is largest."<<endl;
     }
-    else
+    else if(c>b && b>a)
     {
         cout<<c<<" is largest."<<endl;
     }
