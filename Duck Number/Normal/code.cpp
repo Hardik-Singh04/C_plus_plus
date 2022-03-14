@@ -3,8 +3,7 @@ using namespace std;
 
 int main()
 {
-    int num,temp,r,flg;
-	flg=0;
+    int num,temp,r,flg=0;
  cout << " Input a number: ";
  cin >> num;
  temp=num;
