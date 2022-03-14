@@ -1,10 +1,6 @@
 # include <bits/stdc++.h>
 using namespace std;
 
-void find(int num)
-{
-    
-}
 int main()
 {
     int num,rem=0,sq,sum=0;
