@@ -1,9 +1,3 @@
-/*
-  Check if the string is Anagrams or not 
-  Input string should be in all lowercase.
-  And each string should be english alphabet
-  Anagrams string example:   taste    ,  state
-*/
 #include<iostream>
 #include<string>
 #include<algorithm>
@@ -39,6 +33,7 @@ int main()
     }
     return 0;
 }
+
 
 
 
