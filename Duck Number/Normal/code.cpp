@@ -25,3 +25,4 @@ int main()
             cout << " Not a Duck Number."<<endl;
             }
 }
+
